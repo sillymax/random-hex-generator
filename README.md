@@ -1,1 +1,1 @@
-# counter-app
+# random-hex-generator
